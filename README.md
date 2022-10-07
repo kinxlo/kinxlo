@@ -36,9 +36,9 @@
 
 ## My GitHub Stats &#x1f4c8;
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&show_icons=true&hide_border=true)
+![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
+![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with me
 
@@ -49,5 +49,5 @@
 
 ## Github Accolades
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo" alt="kinxlo" /></a> </p>
-<p align="left"> <a href="https://twitter.com/kinxlo" target="blank"><img src="https://img.shields.io/twitter/follow/kinxlo?logo=twitter&style=for-the-badge" alt="kinxlo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=15" alt="kinxlo" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/kinxlo" target="blank"><img src="https://img.shields.io/twitter/follow/kinxlo?logo=twitter&style=for-the-badge" alt="kinxlo" /></a> </p> -->
