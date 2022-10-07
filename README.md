@@ -51,7 +51,7 @@
 ## Connect with me on
 
 [![K.S - LinkedIn](https://img.shields.io/static/v1?label=K.S&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kingsley-solomon-b90339b2/)
-[![K.S - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://twitter.com/kinxlo)
+[![K.S - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%1DA1F2&style=for-the-badge&logo=LinkedIn)](https://twitter.com/kinxlo)
 [![K.S - Code Sandbox](https://img.shields.io/static/v1?label=K.S&message=Code+Sandbox&color=%23151515&style=for-the-badge&logo=CodeSandbox)](https://codesandbox.com/kinxlo)
 [![K.S - Hashnode](https://img.shields.io/static/v1?label=K.S&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
 
