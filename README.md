@@ -10,6 +10,7 @@
 - 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:kinxly@gmail.com)
 
 <br/>
+
 ## ⛏️ Technology & Tools
 
 <div>
@@ -36,6 +37,7 @@
 </div>
 
 <br/>
+
 ## &#x1f4c8; GitHub Stats
 
 ![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
@@ -43,6 +45,7 @@
 ![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
 
 <br/>
+
 ## Connect with me on
 
 <a href="https://www.linkedin.com/in/kingsley-solomon-b90339b2/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
