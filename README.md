@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning about Android Mobile Development with Java and Kotlin.
+- 🌱 I’m currently learning Android Development with Java and Kotlin.
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
 - 👨‍💻 All of my projects are available here [![K.S - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://kingsley-solomon.vercel.app/)
 - 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:kinxly@gmail.com)
@@ -48,7 +48,7 @@
 
 <br/>
 
-## Connect with me on
+## Connect with me
 
 [![K.S - LinkedIn](https://img.shields.io/static/v1?label=K.S&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kingsley-solomon-b90339b2/)
 [![K.S - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=Twitter)](https://twitter.com/kinxlo)
@@ -56,7 +56,7 @@
 [![K.S - Hashnode](https://img.shields.io/static/v1?label=K.S&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
 
 <br/>
+
 ### 🎉 Github Accolades
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=10&margin-h=10" alt="kinxlo" /></a> </p>
-<!-- <p align="left"> <a href="https://twitter.com/kinxlo" target="blank"><img src="https://img.shields.io/twitter/follow/kinxlo?logo=twitter&style=for-the-badge" alt="kinxlo" /></a> </p> -->
