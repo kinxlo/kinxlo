@@ -1,7 +1,7 @@
 # <div align = "center">🧐 Hi👋, I'm Kingsley Ifijeh Solomon.
 
 <h3 align="center">Frontend Developer | Instructor</h3>
-<p>💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p>
+<p align="center">💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p>
 </div>
 
 - 🌱 I’m currently learning about Android Mobile Development with Java and Kotlin.
