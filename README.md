@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available here [![K.S - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://kingsley-solomon.vercel.app/)
 - 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:kinxly@gmail.com)
 
+<br/>
 ## ⛏️ Technology & Tools
 
 <div>
@@ -34,12 +35,14 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width=40" height=40"/> </a>
 </div>
 
+<br/>
 ## &#x1f4c8; GitHub Stats
 
 ![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 ![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
 
+<br/>
 ## Connect with me on
 
 <a href="https://www.linkedin.com/in/kingsley-solomon-b90339b2/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -47,6 +50,7 @@
 <a href="https://codesandbox.com/kinxlo">![Code Sandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)</a>
 <a href="https://hashnode.com/@GuyInAChair">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 
+<br/>
 ### 🎉 Github Accolades
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=10&margin-h=10" alt="kinxlo" /></a> </p>
