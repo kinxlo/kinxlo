@@ -1,4 +1,5 @@
 # <div align = "center">Hi👋, I'm Kingsley Ifijeh Solomon.
+
 <h3 align="center">Frontend Developer | Instructor</h3>
 <p>💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p>
 </div>
@@ -10,10 +11,12 @@
 
 ## Technology & Tools
 
+<div>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=30" height=30"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width=30" height=30"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width=30" height=30"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=30" height=30"/> </a>
+</div>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width=30" height=30"/> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width=30" height=30"/> </a>
@@ -34,7 +37,6 @@
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width=30" height=30"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width=30" height=30"/> </a>
-
 
 ## My GitHub Stats &#x1f4c8;
 
@@ -87,9 +89,9 @@
 - Product Support, [Youversion](https://www.youversion.com/the-bible-app/).
 - Ambassador, [Women Techmakers](https://developers.google.com/womentechmakers/ambassadors). -->
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinxlo&show_icons=true&locale=en&layout=compact" alt="kinxlo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinxlo&show_icons=true&locale=en" alt="kinxlo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&" alt="kinxlo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&" alt="kinxlo" /></p> -->
