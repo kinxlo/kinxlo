@@ -49,5 +49,5 @@
 
 ## Github Accolades
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=15" alt="kinxlo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=10&margin-h=10" alt="kinxlo" /></a> </p>
 <!-- <p align="left"> <a href="https://twitter.com/kinxlo" target="blank"><img src="https://img.shields.io/twitter/follow/kinxlo?logo=twitter&style=for-the-badge" alt="kinxlo" /></a> </p> -->
