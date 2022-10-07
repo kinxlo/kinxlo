@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about Android Mobile Development with Java and Kotlin.
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
-- 👨‍💻 All of my projects are available here [![K.S - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f&style=for-the-badge)](https://kingsley-solomon.vercel.app/)
+- 👨‍💻 All of my projects are available here [![K.S - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://kingsley-solomon.vercel.app/)
 - 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f&style=for-the-badge)](mailto:kinxly@gmail.com)
 
 ## ⛏️ Technology & Tools
