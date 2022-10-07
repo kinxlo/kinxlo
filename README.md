@@ -1,4 +1,4 @@
-## <div align = "center">Hi👋, I'm Kingsley Ifijeh Solomon.
+# <div align = "center">Hi👋, I'm Kingsley Ifijeh Solomon.
 
 <h3 align="center">Frontend Developer | Instructor</h3>
   <p>💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p>
@@ -7,13 +7,16 @@
 - 🌱 I’m currently learning about Android Mobile Development with Java and Kotlin.
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
 
-##### Technology & Tools
+## Technology & Tools
+
 <!-- ##### Programming Languages -->
+
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <!-- ##### Frontend Development -->
+
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -28,7 +31,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=vue-dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-##### Useful Links
+### Useful Links
 
 <a href="https://hashnode.com/@GuyInAChair">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/kingsley-solomon-b90339b2/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
