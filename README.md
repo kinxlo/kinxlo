@@ -9,9 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://kingsley-solomon.vercel.app/](https://kingsley-solomon.vercel.app/)
 - 📫 How to reach me **kinxly@gmail.com**
 
-
-
-### Technology & Tools
+## Technology & Tools
 
 <div>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=40" height=40"/> </a>
