@@ -34,13 +34,13 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width=40" height=40"/> </a>
 </div>
 
-### My GitHub Stats &#x1f4c8;
+## My GitHub Stats &#x1f4c8;
 
 ![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 ![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
 
-### Connect with me on
+## Connect with me on
 
 <a href="https://www.linkedin.com/in/kingsley-solomon-b90339b2/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/kinxlo">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
