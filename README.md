@@ -9,6 +9,8 @@
 - 👨‍💻 All of my projects are available at [https://kingsley-solomon.vercel.app/](https://kingsley-solomon.vercel.app/)
 - 📫 How to reach me **kinxly@gmail.com**
 
+
+
 ### Technology & Tools
 
 <div>
