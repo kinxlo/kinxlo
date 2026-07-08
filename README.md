@@ -24,14 +24,3 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width=40" height=40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width=40" height=40"/> </a>
 </div>
-
-
-![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
-
-<br/>
-
-### 🎉 Github Accolades
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=10&margin-h=10" alt="kinxlo" /></a> </p>
