@@ -1,14 +1,11 @@
-# <div align = "center">🧐 Hi👋, I'm Kingsley Ifijeh Solomon.
+# <div align = "center">🧐 Hi👋, I'm Ifijeh Kingsley Solomon.
 
 <h3 align="center">Frontend Developer | Instructor</h3>
-<p align="center">💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p>
+<!-- <p align="center">💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p> -->
 </div>
 
 <br/>
 
-- 🌱 I’m currently learning Android Development with Java and Kotlin.
-- 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
-- 👨‍💻 All of my projects are available here [![K.S - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://kingsleyifijeh.com/)
 - 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:kinxly@gmail.com)
 
 <br/>
@@ -45,15 +42,6 @@
 ![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 ![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
-
-<br/>
-
-## Connect with me
-
-[![K.S - LinkedIn](https://img.shields.io/static/v1?label=K.S&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kingsley-solomon-b90339b2/)
-[![K.S - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=Twitter)](https://twitter.com/kinxlo)
-[![K.S - Code Sandbox](https://img.shields.io/static/v1?label=K.S&message=Code+Sandbox&color=%23151515&style=for-the-badge&logo=CodeSandbox)](https://codesandbox.com/kinxlo)
-[![K.S - Hashnode](https://img.shields.io/static/v1?label=K.S&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
 
 <br/>
 
