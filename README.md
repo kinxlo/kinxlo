@@ -25,9 +25,6 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width=40" height=40"/> </a>
 </div>
 
-<br/>
-
-## &#x1f4c8; GitHub Stats
 
 ![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
