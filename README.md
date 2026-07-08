@@ -1,15 +1,5 @@
 # <div align = "center">🧐 Hi👋, I'm Ifijeh Kingsley Solomon.
 
-<h3 align="center">Frontend Developer | Instructor</h3>
-<!-- <p align="center">💬 Ask me about reactjs, vuejs, nextjs, nuxtjs and all things frontend.</p> -->
-</div>
-
-<br/>
-
-- 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:kinxly@gmail.com)
-
-<br/>
-
 ## ⛏️ Technology & Tools
 
 <div>
